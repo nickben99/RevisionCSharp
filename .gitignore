@@ -1,0 +1,8 @@
+.vs/
+Backup/
+
+*.sdf
+*.suo
+*.db
+*.user
+*.htm

@@ -1,5 +1,7 @@
 .vs/
 Backup/
+bin/
+Debug/
 
 *.sdf
 *.suo
